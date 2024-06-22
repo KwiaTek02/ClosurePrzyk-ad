@@ -1,0 +1,14 @@
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\bin\Debug\net8.0\PrzykładClosure.exe
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\bin\Debug\net8.0\PrzykładClosure.deps.json
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\bin\Debug\net8.0\PrzykładClosure.runtimeconfig.json
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\bin\Debug\net8.0\PrzykładClosure.dll
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\bin\Debug\net8.0\PrzykładClosure.pdb
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\PrzykładClosure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\PrzykładClosure.AssemblyInfoInputs.cache
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\PrzykładClosure.AssemblyInfo.cs
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\PrzykładClosure.csproj.CoreCompileInputs.cache
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\PrzykładClosure.dll
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\refint\PrzykładClosure.dll
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\PrzykładClosure.pdb
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\PrzykładClosure.genruntimeconfig.cache
+C:\Users\MK\RiderProjects\PrzykładClosure\PrzykładClosure\obj\Debug\net8.0\ref\PrzykładClosure.dll
